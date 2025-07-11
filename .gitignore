@@ -1,0 +1,36 @@
+# Ignore các file hệ thống
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore các file tạm thời
+*.tmp
+*.temp
+~*
+*~
+
+# Ignore các file backup
+*.bak
+*.backup
+*.old
+
+# Ignore các file log
+*.log
+
+# Ignore các file có dung lượng lớn
+*.exe
+*.msi
+*.dmg
+*.iso
+*.zip
+*.rar
+*.7z
+
+# Ignore thư mục cache
+.cache/
+.vscode/
+.idea/
+
+# Ignore file cấu hình cá nhân
+config.local.*
+settings.local.*

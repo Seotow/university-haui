@@ -1,0 +1,96 @@
+[submodule "ArtificialIntelligent"]
+	path = ArtificialIntelligent
+	url = git@github.com:Seotow/artificial-intelligent-haui.git
+[submodule "CNXHKH"]
+	path = CNXHKH
+	url = git@github.com:Seotow/cnxhkh-haui.git
+[submodule "ComputerArchitecture-OS"]
+	path = ComputerArchitecture-OS
+	url = git@github.com:Seotow/computer-architecture-os-haui.git
+[submodule "ComputerNetworks"]
+	path = ComputerNetworks
+	url = git@github.com:Seotow/computer-networks-haui.git
+[submodule "DatabaseSys"]
+	path = DatabaseSys
+	url = git@github.com:Seotow/database-systems-haui.git
+[submodule "DataStructs-Algorithms"]
+	path = DataStructs-Algorithms
+	url = git@github.com:Seotow/data-structures-algorithms-haui.git
+[submodule "DiscreteMaths"]
+	path = DiscreteMaths
+	url = git@github.com:Seotow/discrete-mathematics-haui.git
+[submodule "English"]
+	path = English
+	url = git@github.com:Seotow/english-3-5-haui.git
+[submodule "HumanComputerInteraction"]
+	path = HumanComputerInteraction
+	url = git@github.com:Seotow/human-computer-interaction-haui.git
+[submodule "InformationSecurity"]
+	path = InformationSecurity
+	url = git@github.com:Seotow/information-security-haui.git
+[submodule "IntroToSoftwareEngineering"]
+	path = IntroToSoftwareEngineering
+	url = git@github.com:Seotow/intro-software-engineering-haui.git
+[submodule "LSDCSVN"]
+	path = LSDCSVN
+	url = git@github.com:Seotow/lsdcsvn-haui.git
+[submodule "ObjectOrientedProgramming"]
+	path = ObjectOrientedProgramming
+	url = git@github.com:Seotow/object-oriented-programming-haui.git
+[submodule "ProbabilityStatistics"]
+	path = ProbabilityStatistics
+	url = git@github.com:Seotow/probability-statistics-haui.git
+[submodule "SoftwareAnalysis-Design"]
+	path = SoftwareAnalysis-Design
+	url = git@github.com:Seotow/software-analysis-design-haui.git
+[submodule "WebDesign"]
+	path = WebDesign
+	url = git@github.com:Seotow/web-design-haui.git
+[submodule "SecondYear/ArtificialIntelligent"]
+	path = SecondYear/ArtificialIntelligent
+	url = git@github.com:Seotow/artificial-intelligent-haui.git
+[submodule "SecondYear/CNXHKH"]
+	path = SecondYear/CNXHKH
+	url = git@github.com:Seotow/cnxhkh-haui.git
+[submodule "SecondYear/ComputerArchitecture-OS"]
+	path = SecondYear/ComputerArchitecture-OS
+	url = git@github.com:Seotow/computer-architecture-os-haui.git
+[submodule "SecondYear/ComputerNetworks"]
+	path = SecondYear/ComputerNetworks
+	url = git@github.com:Seotow/computer-networks-haui.git
+[submodule "SecondYear/DatabaseSys"]
+	path = SecondYear/DatabaseSys
+	url = git@github.com:Seotow/database-systems-haui.git
+[submodule "SecondYear/DataStructs-Algorithms"]
+	path = SecondYear/DataStructs-Algorithms
+	url = git@github.com:Seotow/data-structures-algorithms-haui.git
+[submodule "SecondYear/DiscreteMaths"]
+	path = SecondYear/DiscreteMaths
+	url = git@github.com:Seotow/discrete-mathematics-haui.git
+[submodule "SecondYear/English"]
+	path = SecondYear/English
+	url = git@github.com:Seotow/english-3-5-haui.git
+[submodule "SecondYear/HumanComputerInteraction"]
+	path = SecondYear/HumanComputerInteraction
+	url = git@github.com:Seotow/human-computer-interaction-haui.git
+[submodule "SecondYear/InformationSecurity"]
+	path = SecondYear/InformationSecurity
+	url = git@github.com:Seotow/information-security-haui.git
+[submodule "SecondYear/IntroToSoftwareEngineering"]
+	path = SecondYear/IntroToSoftwareEngineering
+	url = git@github.com:Seotow/intro-software-engineering-haui.git
+[submodule "SecondYear/LSDCSVN"]
+	path = SecondYear/LSDCSVN
+	url = git@github.com:Seotow/lsdcsvn-haui.git
+[submodule "SecondYear/ObjectOrientedProgramming"]
+	path = SecondYear/ObjectOrientedProgramming
+	url = git@github.com:Seotow/object-oriented-programming-haui.git
+[submodule "SecondYear/ProbabilityStatistics"]
+	path = SecondYear/ProbabilityStatistics
+	url = git@github.com:Seotow/probability-statistics-haui.git
+[submodule "SecondYear/SoftwareAnalysis-Design"]
+	path = SecondYear/SoftwareAnalysis-Design
+	url = git@github.com:Seotow/software-analysis-design-haui.git
+[submodule "SecondYear/WebDesign"]
+	path = SecondYear/WebDesign
+	url = git@github.com:Seotow/web-design-haui.git
