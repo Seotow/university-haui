@@ -6,41 +6,34 @@ Chào mừng đến với tài liệu học tập năm thứ hai tại Đại h�
 
 ### Khối kiến thức chuyên ngành
 
-1. **[Trí tuệ nhân tạo](ArtificialIntelligent/)** (IT6083) - Các khái niệm cơ bản về AI, thuật toán tìm kiếm
-2. **[Kiến trúc máy tính và hệ điều hành](ComputerArchitecture-OS/)** (IT6053) - Kiến trúc CPU, bộ nhớ, hệ điều hành
-3. **[Mạng máy tính](ComputerNetworks/)** (IT6083) - Mô hình OSI, TCP/IP, thiết lập mạng
-4. **[Hệ quản trị cơ sở dữ liệu](DatabaseSys/)** (IT6043) - SQL, thiết kế CSDL, quản trị
-5. **[Cấu trúc dữ liệu và giải thuật](DataStructs-Algorithms/)** (IT5023) - Stack, Queue, Tree, Graph, sắp xếp, tìm kiếm
-6. **[Tương tác người máy](HumanComputerInteraction/)** (IT6103) - UX/UI, thiết kế giao diện
-7. **[An toàn thông tin](InformationSecurity/)** (IT6093) - Mã hóa, bảo mật mạng, quản lý rủi ro
-8. **[Nhập môn công nghệ phần mềm](IntroToSoftwareEngineering/)** (IT6113) - Quy trình phát triển phần mềm
-9. **[Lập trình hướng đối tượng](ObjectOrientedProgramming/)** (IT5033) - OOP với Java/C++
-10. **[Phân tích thiết kế phần mềm](SoftwareAnalysis-Design/)** (IT6123) - UML, phân tích yêu cầu
-11. **[Thiết kế web](WebDesign/)** (IT6133) - HTML, CSS, JavaScript, responsive design
+1. **[Trí tuệ nhân tạo](https://github.com/Seotow/artificial-intelligent-haui)** (IT6094) - Các khái niệm cơ bản về AI, thuật toán tìm kiếm
+2. **[Kiến trúc máy tính và hệ điều hành](https://github.com/Seotow/computer-architecture-os-haui)** (IT6067) - Kiến trúc CPU, bộ nhớ, hệ điều hành
+3. **[Mạng máy tính](https://github.com/Seotow/computer-networks-haui)** (IT6083) - Mô hình OSI, TCP/IP, thiết lập mạng
+4. **[Hệ quản trị cơ sở dữ liệu](https://github.com/Seotow/database-sys-haui)** (IT6126) - SQL, thiết kế CSDL, quản trị
+5. **[Cấu trúc dữ liệu và giải thuật](https://github.com/Seotow/data-structs-algorithms-haui)** (IT6002) - Stack, Queue, Tree, Graph, sắp xếp, tìm kiếm
+6. **[Tương tác người máy](https://github.com/Seotow/human-computer-interaction-haui)** (IT6123) - UX/UI, thiết kế giao diện
+7. **[An toàn thông tin](https://github.com/Seotow/information-security-haui)** (IT6001) - Mã hóa, bảo mật mạng, quản lý rủi ro
+8. **[Nhập môn công nghệ phần mềm](https://github.com/Seotow/intro-software-engineering-haui)** (IT6082) - Quy trình phát triển phần mềm
+9. **[Lập trình hướng đối tượng](https://github.com/Seotow/object-oriented-programming-haui)** (IT6120) - OOP với Java/C++
+10. **[Phân tích thiết kế phần mềm](https://github.com/Seotow/software-analysis-design-haui)** (IT6066) - UML, phân tích yêu cầu
+11. **[Thiết kế web](https://github.com/Seotow/web-design-haui)** (IT6039) - HTML, CSS, JavaScript, responsive design
 
 ### Khối kiến thức cơ sở
-12. **[Toán rời rạc](DiscreteMaths/)** (IT5013) - Logic, tập hợp, quan hệ, đồ thị
-13. **[Xác suất thống kê](ProbabilityStatistics/)** (BS5013) - Xác suất, thống kê mô tả và suy luận
+12. **[Toán rời rạc](https://github.com/Seotow/discrete-maths-haui)** (IT6035) - Logic, tập hợp, quan hệ, đồ thị
+13. **[Xác suất thống kê](https://github.com/Seotow/probability-statistics-haui)** (BS6008) - Xác suất, thống kê mô tả và suy luận
 
 ### Khối kiến thức chính trị - xã hội
-14. **[Chủ nghĩa xã hội khoa học](CNXHKH/)** (ML5023) - Lý luận chính trị xã hội
-15. **[Lịch sử Đảng Cộng sản Việt Nam](LSDCSVN/)** (ML5033) - Lịch sử Đảng, cách mạng VN
+14. **[Chủ nghĩa xã hội khoa học](https://github.com/Seotow/cnxhkh-haui)** (LP6012) - Lý luận chính trị xã hội
+15. **[Lịch sử Đảng Cộng sản Việt Nam](https://github.com/Seotow/lsdcsvn-haui)** - Lịch sử Đảng, cách mạng VN
 
 ### Khối kiến thức ngoại ngữ  
-16. **[Tiếng Anh 3-5](English/)** (FL5013-FL5053) - Tiếng Anh chuyên ngành IT
+16. **[Tiếng Anh 3-5](https://github.com/Seotow/english-3-5-haui)** (FL6087, FL6088, FL6343) - Tiếng Anh chuyên ngành IT
 
 ## 📊 Thống kê tổng quan
 
 - **Tổng số môn:** 16 môn
-- **Tổng số tín chỉ:** ~48 tín chỉ
-- **Điểm trung bình:** *Sẽ cập nhật sau khi hoàn thành*
-
-## 🎯 Mục tiêu học tập
-
-- Nắm vững kiến thức cơ sở về khoa học máy tính
-- Phát triển kỹ năng lập trình và thiết kế hệ thống
-- Hiểu rõ các nguyên lý bảo mật và mạng máy tính
-- Chuẩn bị tốt cho các môn chuyên sâu ở năm ba
+- **Tổng số tín chỉ tích lũy:** 49 tín chỉ
+- **Điểm trung bình:** kỳ 3: 3.42 | kỳ 4: 3.3
 
 ## 📁 Cấu trúc thư mục
 

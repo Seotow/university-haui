@@ -5,33 +5,33 @@ Chào mừng đến với tài liệu học tập năm thứ ba tại Đại h�
 ## 📚 Danh sách môn học
 
 ### Khối kiến thức chuyên ngành nâng cao
-- **[Lập trình Python cơ bản](./BasicPythonProgramming)** ([repo](https://github.com/Seotow/basic-python-programming-haui)) (IT6130) - Cú pháp Python, OOP, thư viện
-- **[Phân tích dữ liệu lớn](./BigDataAnalysis)** ([repo](https://github.com/Seotow/big-data-analysis-haui)) (IT6077) - Phân tích mô tả, dự báo, Pandas, Sklearn, Spark
+1. **[Lập trình Python cơ bản](https://github.com/Seotow/basic-python-programming-haui)** (IT6130) - Cú pháp Python, OOP, thư viện
+2. **[Phân tích dữ liệu lớn](https://github.com/Seotow/big-data-analysis-haui)** (IT6077) - Phân tích mô tả, dự báo, Pandas, Sklearn, Spark
   - 📦 **Submodule**: [big-data-analytic-group17](https://github.com/Seotow/big-data-analytic-group17) - Dự án phân tích dữ liệu nhóm 17
-- **[Thiết kế đồ họa](./GraphicDesign)** ([repo](https://github.com/Seotow/graphic-design-haui)) (IT6100) - Photoshop, Illustrator, Typography
-- **[Phát triển dự án CNTT](./ICTProjectDev)** ([repo](https://github.com/Seotow/ict-project-dev-haui)) (IT6071) - Quản lý dự án, Agile, Scrum
+3. **[Thiết kế đồ họa](https://github.com/Seotow/graphic-design-haui)** (IT6100) - Photoshop, Illustrator, Typography
+4. **[Phát triển dự án CNTT](https://github.com/Seotow/ict-project-dev-haui)** (IT6071) - Quản lý dự án, Agile, Scrum
   - 📦 **Submodule**: [PTDACNTT_Nhom13](https://github.com/Seotow/PTDACNTT_Nhom13) - Dự án phát triển CNTT nhóm 13
-- **[Học máy](./MachineLearning)** ([repo](https://github.com/Seotow/machine-learning-haui)) (IT6047) - ML algorithms, TensorFlow, PyTorch
+5. **[Học máy](https://github.com/Seotow/machine-learning-haui)** (IT6047) - ML algorithms, TensorFlow, PyTorch
   - 📦 **Submodule**: [license-plate-recognition](https://github.com/Seotow/license-plate-recognition) - Hệ thống nhận dạng biển số xe Việt Nam
-- **[Phát triển ứng dụng di động](./MobileAppDev)** ([repo](https://github.com/Seotow/mobile-app-dev-haui)) (IT6029) - Android Studio
+6. **[Phát triển ứng dụng di động](https://github.com/Seotow/mobile-app-dev-haui)** (IT6029) - Android Studio
   - 📦 **Submodule**: [QuanLyThuVien](https://github.com/ThAolInh20/QuanLyThuVien) - Ứng dụng quản lý thư viện Android (by @ThAolInh20)
-- **[Công nghệ đa phương tiện](./MultimediaTechnology)** ([repo](https://github.com/Seotow/multimedia-technology-haui)) (IT6004) - Audio/Video processing, Animation ⚠️ *Large files issue*
-- **[Quản trị mạng trên Windows](./NetworkAdminOnWindows)** ([repo](https://github.com/Seotow/network-admin-windows-haui)) (IT6056) - Windows Server, Active Directory ⚠️ *Large files issue*
-- **[Tích hợp hệ thống phần mềm](./SoftwareSysIntegration)** ([repo](https://github.com/Seotow/software-sys-integration-haui)) (IT6034) - API, Microservices, Cloud ⚠️ *Path length issue*
-- **[Kiểm thử phần mềm](./SoftwareTesting)** ([repo](https://github.com/Seotow/software-testing-haui)) (IT6084) - Unit test, Automation, QA
+7. **[Công nghệ đa phương tiện](https://github.com/Seotow/multimedia-technology-haui)** (IT6004) - Audio/Video processing, Animation 
+8. **[Quản trị mạng trên Windows](https://github.com/Seotow/network-admin-windows-haui)** (IT6056) - Windows Server, Active Directory 
+9. **[Tích hợp hệ thống phần mềm](https://github.com/Seotow/software-sys-integration-haui)** (IT6034) - API, Microservices, Cloud 
+10. **[Kiểm thử phần mềm](https://github.com/Seotow/software-testing-haui)** (IT6084) - Unit test, Automation, QA
 
 ### Khối kiến thức thực tập
-- **[Thực tập cơ sở ngành](./FoundationIntern)** ([repo](https://github.com/Seotow/foundation-intern-haui)) (IT6121) - Dự án nhóm tích hợp frontend backend cho dự án bất kỳ
+11. **[Thực tập cơ sở ngành](https://github.com/Seotow/foundation-intern-haui)** (IT6121) - Dự án nhóm tích hợp frontend backend cho dự án bất kỳ
   - 📦 **Submodule**: [TTCSN_Group16](https://github.com/Seotow/TTCSN_Group16) - Dự án thực tập cơ sở ngành nhóm 16
-- **[Đồ án chuyên ngành](./MajorProject)** ([repo](https://github.com/Seotow/major-project-haui)) (IT6122) - Dự án nhóm trước đồ án tốt nghiệp
+12. **[Đồ án chuyên ngành](https://github.com/Seotow/major-project-haui)** (IT6122) - Dự án nhóm trước đồ án tốt nghiệp
   - 📦 **Submodule**: [Tiny-Fight](https://github.com/tunghuy906/Tiny-Fight) - Game development project (by @tunghuy906)
 
 ### Khối kiến thức chính trị - xã hội
-- **[Pháp luật đại cương](./PLDC)** ([repo](https://github.com/Seotow/pldc-haui)) (LP6003) - Pháp luật VN, Sở hữu trí tuệ
-- **[Tư tưởng Hồ Chí Minh](./TTHCM)** ([repo](https://github.com/Seotow/tthcm-haui)) (LP6004) - Tư tưởng HCM, Lý luận chính trị
+13. **[Pháp luật đại cương](https://github.com/Seotow/pldc-haui)** (LP6003) - Pháp luật VN, Sở hữu trí tuệ
+14. **[Tư tưởng Hồ Chí Minh](https://github.com/Seotow/tthcm-haui)** (LP6004) - Tư tưởng HCM, Lý luận chính trị
 
 ### Khối kiến thức ngoại ngữ
-- **[Tiếng Anh 6](./English)** ([repo](https://github.com/Seotow/english-6-haui)) (FL6343) - Tiếng anh công nghệ thông tin 2
+15. **[Tiếng Anh 6](https://github.com/Seotow/english-6-haui)** (FL6343) - Tiếng anh công nghệ thông tin 2
 
 ### Môn học không tích lũy
 - **Cầu lông 1**
@@ -39,9 +39,9 @@ Chào mừng đến với tài liệu học tập năm thứ ba tại Đại h�
 
 ## 📊 Thống kê tổng quan
 
-- **Tổng số môn:** 15 môn
-- **Tổng số tín chỉ:** 47 tín chỉ
-- **Điểm trung bình:** kỳ 3: 3.63 | kỳ 4: *Cập nhật*
+- **Tổng số môn:** 17 môn
+- **Tổng số tín chỉ tích lũy:** 47 tín chỉ
+- **Điểm trung bình:** kỳ 5: 3.63 | kỳ 6: *Cập nhật*
 
 ## 📁 Cấu trúc thư mục
 
