@@ -94,3 +94,48 @@
 [submodule "SecondYear/WebDesign"]
 	path = SecondYear/WebDesign
 	url = git@github.com:Seotow/web-design-haui.git
+[submodule "ThirdYear/BasicPythonProgramming"]
+	path = ThirdYear/BasicPythonProgramming
+	url = git@github.com:Seotow/basic-python-programming-haui.git
+[submodule "ThirdYear/BigDataAnalysis"]
+	path = ThirdYear/BigDataAnalysis
+	url = git@github.com:Seotow/big-data-analysis-haui.git
+[submodule "ThirdYear/English"]
+	path = ThirdYear/English
+	url = git@github.com:Seotow/english-6-haui.git
+[submodule "ThirdYear/FoundationIntern"]
+	path = ThirdYear/FoundationIntern
+	url = git@github.com:Seotow/foundation-intern-haui.git
+[submodule "ThirdYear/GraphicDesign"]
+	path = ThirdYear/GraphicDesign
+	url = git@github.com:Seotow/graphic-design-haui.git
+[submodule "ThirdYear/ICTProjectDev"]
+	path = ThirdYear/ICTProjectDev
+	url = git@github.com:Seotow/ict-project-dev-haui.git
+[submodule "ThirdYear/MachineLearning"]
+	path = ThirdYear/MachineLearning
+	url = git@github.com:Seotow/machine-learning-haui.git
+[submodule "ThirdYear/MajorProject"]
+	path = ThirdYear/MajorProject
+	url = git@github.com:Seotow/major-project-haui.git
+[submodule "ThirdYear/MobileAppDev"]
+	path = ThirdYear/MobileAppDev
+	url = git@github.com:Seotow/mobile-app-dev-haui.git
+[submodule "ThirdYear/MultimediaTechnology"]
+	path = ThirdYear/MultimediaTechnology
+	url = git@github.com:Seotow/multimedia-technology-haui.git
+[submodule "ThirdYear/NetworkAdminOnWindows"]
+	path = ThirdYear/NetworkAdminOnWindows
+	url = git@github.com:Seotow/network-admin-windows-haui.git
+[submodule "ThirdYear/PLDC"]
+	path = ThirdYear/PLDC
+	url = git@github.com:Seotow/pldc-haui.git
+[submodule "ThirdYear/SoftwareSysIntegration"]
+	path = ThirdYear/SoftwareSysIntegration
+	url = git@github.com:Seotow/software-sys-integration-haui.git
+[submodule "ThirdYear/SoftwareTesting"]
+	path = ThirdYear/SoftwareTesting
+	url = git@github.com:Seotow/software-testing-haui.git
+[submodule "ThirdYear/TTHCM"]
+	path = ThirdYear/TTHCM
+	url = git@github.com:Seotow/tthcm-haui.git
