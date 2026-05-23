@@ -63,7 +63,7 @@ git clone --recursive https://github.com/Seotow/machine-learning-haui.git
 | # | Môn học | Repository | Ghi chú |
 |---|---------|-----------|---------|
 | 1 | Lập trình Python nâng cao | [advanced-python-programming-haui](https://github.com/Seotow/advanced-python-programming-haui) | MVC, CustomTkinter, MySQL, MongoDB |
-| 2 | Đồ án tốt nghiệp | [graduation-thesis-haui](https://github.com/Seotow/graduation-thesis-haui) | Nhận diện bệnh lúa – YOLOv11 + Swin Transformer |
+| 2 | Đồ án tốt nghiệp | [graduation-thesis-haui](https://github.com/Seotow/graduation-thesis-haui) | Nhận diện bệnh cây trồng – YOLOv11 + Swin Transformer |
 
 📦 **Ứng dụng đồ án:** [plant-care](https://github.com/Seotow/plant-care) – FastAPI + Expo React Native + Docker
 
