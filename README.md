@@ -147,7 +147,7 @@ git submodule status
 ## 📞 Liên hệ
 
 **Nguyễn Trung Hiếu** – MSV 2022600419  
-Khoa Công nghệ Thông tin – Đại học Công nghiệp Hà Nội  
+Ngành Công nghệ thông tin - Trường Công nghệ Thông tin và Truyền Thông – Đại học Công nghiệp Hà Nội  
 GitHub: [@Seotow](https://github.com/Seotow) | Issues: [university-haui/issues](https://github.com/Seotow/university-haui/issues)
 
 ---
@@ -158,3 +158,5 @@ GitHub: [@Seotow](https://github.com/Seotow) | Issues: [university-haui/issues](
 |---|---|
 | 2026-05-23 | Hoàn thành năm cuối: Đồ án tốt nghiệp + Python nâng cao; thêm report-template |
 | 2025-07-12 | Hoàn thành tất cả 15 môn Năm 3; triển khai Git LFS; sửa cấu hình submodule |
+
+*README được viết bởi AI*
