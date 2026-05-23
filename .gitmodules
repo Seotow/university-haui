@@ -139,3 +139,12 @@
 [submodule "ThirdYear/TTHCM"]
 	path = ThirdYear/TTHCM
 	url = git@github.com:Seotow/tthcm-haui.git
+[submodule "LastYear/GraduationThesis"]
+	path = LastYear/GraduationThesis
+	url = git@github.com:Seotow/graduation-thesis-haui.git
+[submodule "LastYear/AdvancedPythonProgramming"]
+	path = LastYear/AdvancedPythonProgramming
+	url = git@github.com:Seotow/advanced-python-programming-haui.git
+[submodule "report-template"]
+	path = report-template
+	url = git@github.com:Seotow/report-template.git
